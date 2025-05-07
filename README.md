@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💻 Desarrollador
+
 **Angel Josue Cortez Zaldana** - CZ23002  
 Asignatura: **Desarrollo de Aplicaciones Web**
 
@@ -13,7 +13,7 @@ Asignatura: **Desarrollo de Aplicaciones Web**
 
 Este sistema permite administrar una librería completa, gestionando autores, libros, clientes y ventas. Implementado como parte del examen corto #2, este proyecto demuestra la aplicación práctica de tecnologías empresariales para soluciones de gestión de negocios.
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Java 17** - Lenguaje de programación base
 - **Spring Boot 3.2.x** - Framework de desarrollo
@@ -21,7 +21,7 @@ Este sistema permite administrar una librería completa, gestionando autores, li
 - **PostgreSQL** - Sistema de gestión de base de datos
 - **Maven** - Gestión de dependencias
 
-## ⚙️ Características Principales
+## Características Principales
 
 - Gestión completa de catálogo de libros
 - Registro y administración de autores
@@ -30,7 +30,7 @@ Este sistema permite administrar una librería completa, gestionando autores, li
 - Relaciones complejas entre entidades
 - Persistencia automática en PostgreSQL
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 1. **Requisitos previos:**
    - Java 17 o superior
@@ -61,7 +61,7 @@ Este sistema permite administrar una librería completa, gestionando autores, li
 5. **Verificación:**
    Una vez iniciada la aplicación, verifica en PostgreSQL que todas las tablas se hayan creado correctamente.
 
-## 🌟 Competencias Demostradas
+##  Competencias Demostradas
 
 - Modelado de datos con JPA
 - Implementación de relaciones complejas (ManyToMany, OneToMany)
@@ -71,11 +71,6 @@ Este sistema permite administrar una librería completa, gestionando autores, li
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está disponible bajo la licencia MIT.
-
----
 
 _Universidad de El Salvador - Facultad de Ingeniería y Arquitectura - 2025_
 
